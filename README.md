@@ -9,13 +9,13 @@ DOI: [UPDATE]
 
 Files: 
 
-BXD_20Sep2017_pheno_Plus_gt4.5TAs_noParents_rqtl2.csv - clinical phenotypes and TnSeq mutant fitness profiles by BXD genotype
-
 BXD_covar_rqtl2.csv - additive covariates
 
 BXD_genotypes_rqtl2.csv - BXD mouse genotypes
 
 BXD_gmap_rqtl2.csv - genetic map (cM)
+
+BXD_pheno_rqtl2.csv - clinical phenotypes and TnSeq mutant fitness profiles by BXD genotype; Mtb genes with less than 4 transposon insertions represented were excluded. Additionally, Mtb genes with less than 0.63 log2 fold change across the BXD tested genotypes were excluded for mapping.
 
 BXD_pmap_rqtl2.csv - physical map (Mb)
 
