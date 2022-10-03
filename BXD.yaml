@@ -1,0 +1,21 @@
+crosstype: risib
+sep: ','
+na.strings:
+- '-'
+- NA
+comment.char: '#'
+geno: BXD_genotypes_rqtl2.csv
+gmap: BXD_gmap_rqtl2.csv
+pmap: BXD_pmap_rqtl2.csv
+pheno: BXD_pheno_rqtl2.csv
+covar: BXD_covar_rqtl2.csv
+x_chr: X
+genotypes:
+  B: 1
+  D: 2
+sex:
+  covar: sex
+  '0': female
+  '1': male
+cross_info:
+  covar: cross_direction
