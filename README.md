@@ -1,9 +1,9 @@
 # Meade_et_al_BXD_TnSeq
 All the raw phenotype and genotype files for QTL mapping in the BXD TnSeq screen for use in R/qtl2.
 
-This repository contains supplemental data from Meade et al., 2023 (Online Ahead of Print). 
+This repository contains supplemental data from Meade et al., 2023 published in _G3_. 
 
-DOI: https://doi.org/10.1101/2023.03.05.528534
+DOI: [https://doi.org/10.1101/2023.03.05.528534](https://doi.org/10.1093/g3journal/jkad147)
 
 Files: 
 
